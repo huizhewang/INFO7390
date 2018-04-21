@@ -1,6 +1,8 @@
 # INFO7390
 ADS Final Project - Bike Sharing Demand
 
+## Prepare for run the bike sharing demand project
+ 
 * Configure python 2.7 environment 
 
 * Install jupyter with pip: 
@@ -52,7 +54,7 @@ Create a folder named models
 
 2.9 create sticky humidity feature as sticky
 
-### Model Build
+### 3. Model Build
 
 3.1 Data Split for model
 
@@ -64,4 +66,4 @@ Create a folder named models
 
 3.5 Sequential Model with LSTM Layers
 
-### Pridect Test Dataset
+### 4. Pridect Test Dataset
